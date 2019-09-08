@@ -1,0 +1,2 @@
+#
+https://tile.openweathermap.org/map/{layer}/{z}/{x}/{y}.png?appid={api_key}
