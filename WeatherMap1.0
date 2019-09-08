@@ -1,2 +1,11 @@
 #
 https://tile.openweathermap.org/map/{layer}/{z}/{x}/{y}.png?appid={api_key}
+#
+
+
+
+{layer} - layer name
+{z} - number of zoom level
+{x} - number of x tile coordinate
+{y} - number of y tile coordinate
+{api_key} - API key 
